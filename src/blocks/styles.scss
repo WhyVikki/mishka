@@ -1,0 +1,21 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto&display=swap");
+$fontFamily: "PT Sans";
+body {
+    height: 100%;
+    // line-height: 1;
+    // font-size: 16px;
+    // color: white;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+
+._container {
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+
